@@ -1,0 +1,303 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 491px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 1140px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  grid-template-rows: auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-auto-columns: calc(25% - 20.25px);
+  grid-template-columns: calc(25% - 20.25px) calc(25% - 20.25px) calc(25% - 20.25px) calc(25% - 20.25px);
+  grid-gap: 27px 27px;
+  min-height: 441px;
+}
+
+.u-section-1 .u-image-1 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 283px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-image-3 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/1531904582_766947_1531904774_noticia_normal.jpg");
+  background-position: 55.73% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 283px 0 0;
+}
+
+.u-section-1 .u-image-5 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-image-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/ced93a72ef2bbd1ff437e52e1e94f76a1f3a50d1r1-750-937v2_hq.jpg");
+  background-position: 46.48% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 283px 0 0;
+}
+
+.u-section-1 .u-image-7 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-image-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/Elle_Model_Pose_Jeans_T-shirt_Glance_607266_682x1024.jpg");
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 283px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(33.3333% - 6.66667px);
+    grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+    min-height: 364px;
+  }
+
+  .u-section-1 .u-image-3 {
+    background-position: 55.73% 50%;
+  }
+
+  .u-section-1 .u-image-5 {
+    background-position: 46.48% 50%;
+  }
+
+  .u-section-1 .u-image-7 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 13.5px);
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 1115px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 100%;
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 551px;
+}
+
+.u-section-2 .u-list-1 {
+  width: 1140px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  grid-template-rows: auto;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-auto-columns: calc(25% - 20.25px);
+  grid-template-columns: calc(25% - 20.25px) calc(25% - 20.25px) calc(25% - 20.25px) calc(25% - 20.25px);
+  grid-gap: 27px 27px;
+  min-height: 441px;
+}
+
+.u-section-2 .u-image-1 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/file-20190515-60529-j8b5kz1.jpg");
+  background-position: 74.79% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 300px 0 0;
+}
+
+.u-section-2 .u-image-3 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-2 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/9ec734b82e988774f8ecb77f75b5826f.jpg");
+  background-position: 74.79% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 300px 0 0;
+}
+
+.u-section-2 .u-image-5 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-2 .u-image-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/Outfit-hombre-juvenil-con-polo-rojo-vaqueros-desgastados-y-zapatillas-de-lona-rojas.jpg");
+  background-position: 74.79% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 300px 0 0;
+}
+
+.u-section-2 .u-image-7 {
+  animation-duration: 1000ms;
+  background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/d6eaf1b3921f3eb58a2a0e6e7d522661.jpg");
+  background-position: 41.75% 50%;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-2 .u-image-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/outfits-con-jeans-ajustados-para-mujer2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 300px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(33.3333% - 6.66667px);
+    grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+    min-height: 364px;
+  }
+
+  .u-section-2 .u-image-3 {
+    background-position: 55.73% 50%;
+  }
+
+  .u-section-2 .u-image-5 {
+    background-position: 46.48% 50%;
+  }
+
+  .u-section-2 .u-image-7 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 13.5px);
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 1115px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: 100%;
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-list-1 {
+    width: 340px;
+  }
+}
